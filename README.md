@@ -43,7 +43,7 @@
 </head>
 <body>
     <div class="profile-card">
-        <img src="https://pin.it/60VJZ19B2" alt="Avatar" />
+        <img src="https://github.com/user-attachments/assets/dcaf51cf-b858-4187-909c-500d499921bc" alt="Avatar" />
         <h1>Nguyễn Huỳnh Ngọc Châu</h1>
         <p><strong>Nhiệm vụ:</strong> kiểm tra thông tin</p>
         <p>Chỉ đơn giản là... yêu mèo siêu cấp.</p>
